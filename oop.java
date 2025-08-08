@@ -1,3 +1,5 @@
 print ("my page")
+print ("y")
+print ("x")
 print ("Z")
 print ("K")
